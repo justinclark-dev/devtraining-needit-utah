@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="57bdd303b4e32110320f8dc279c804e4" extends="task" label="Problem Task" max_length="40" name="problem_task" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="PR Task URL" max_length="1024" name="x_58872_needit_u_url_1" type="url"/>
+    </element>
+</database>
